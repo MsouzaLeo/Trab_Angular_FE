@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Trab3"
+    }
+  },
+  "defaultProject": "Trab3",
+  "cli": {
+    "analytics": false
+  }
 }
